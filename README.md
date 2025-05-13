@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there! I'm Mala👋
 
 <!--
 **maladaerei/maladaerei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🎓 Cyber Security student passionate about securing digital landscapes.
+💻 Web Development enthusiast with hands-on experience in HTML, CSS, PHP, and currently diving into Python.
+🔐 Aspiring Ethical Hacker aiming to identify and fix security vulnerabilities before they can be exploited.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Skills & Tools
+Languages: HTML, CSS, PHP, Python
+Frameworks & Tools: Kali Linux, Wireshark, Metasploit
+Concepts: Penetration Testing, Vulnerability Assessment, Cryptography
+
+
+

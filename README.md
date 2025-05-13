@@ -3,14 +3,11 @@
 <!--
 **maladaerei/maladaerei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-🎓 Cyber Security student passionate about securing digital landscapes.
-💻 Web Development enthusiast with hands-on experience in HTML, CSS, PHP, and currently diving into Python.
-🔐 Aspiring Ethical Hacker aiming to identify and fix security vulnerabilities before they can be exploited.
+I'm a Cyber Security student and aspiring Ethical Hacker who loves exploring security and web development. I enjoy building secure and user-friendly applications while learning new tech along the way. Check out my repos, and let’s create something awesome together! 
+---
 
-🔧 Skills & Tools
-Languages: HTML, CSS, PHP, Python
-Frameworks & Tools: Kali Linux, Wireshark, Metasploit
-Concepts: Penetration Testing, Vulnerability Assessment, Cryptography
+### Connect with me:
 
-
+- [Instagram](https://www.instagram.com/maladaerei)
+- [TikTok](https://www.tiktok.com/@maladaerei)
 
